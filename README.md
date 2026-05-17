@@ -43,7 +43,7 @@ This project implements a **Convolutional Neural Network (CNN)** to classify han
   - Training & Test **loss curves**
   - Training & Test **accuracy curves**
   - **Confusion matrix** for digits and letters
-  - Random correct and incorrect predictions
+  - Sample model predictions
 
 ---
 
