@@ -5,8 +5,7 @@ This project implements a **Convolutional Neural Network (CNN)** to classify han
 ---
 
 ## Dataset
-
-- **MNIST Digits**: 280,000 grayscale images of handwritten digits (0–9).  
+  
 - **EMNIST Digits + Letters**: 383,600 grayscale images of handwritten digits (0–9) and uppercase letters (A–Z).  
 
 **Train/Test split:** 70% training / 30% testing.
