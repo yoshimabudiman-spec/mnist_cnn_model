@@ -1,4 +1,4 @@
-# MNIST & EMNIST CNN Classification
+# MNIST CNN Classification
 
 This project implements a **Convolutional Neural Network (CNN)** to classify handwritten **digits and letters** from the MNIST datasets. The model is designed with **bias terms**, **dropout layers**, and **L2 regularization** to reduce overfitting and achieve more balanced training and validation curves.
 
