@@ -25,7 +25,7 @@ This project implements a **Convolutional Neural Network (CNN)** to classify han
 - **Flatten**  
 - **Dense layer:** 30 units, ReLU, L2 regularization, bias enabled  
 - **Dropout:** 20%  
-- **Output layer:** `num_classes` units (36), softmax, L2 regularization, bias enabled  
+- **Output layer:** 36 units (0–9 digits + A–Z letters), softmax, L2 regularization, bias enabled  
 
 **Optimizer:** Adam, learning rate 0.0003  
 **Loss function:** Categorical Crossentropy  
@@ -52,5 +52,5 @@ This project implements a **Convolutional Neural Network (CNN)** to classify han
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<USERNAME>/<REPO>.git
-cd <REPO>
+git clone https://github.com/yoshimabudiman-spec/mnist_cnn_model.git
+cd mnist_cnn_model
